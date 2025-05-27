@@ -7,7 +7,6 @@ Sistema front-end que permite aos usuários visualizar produtos, acessar detalhe
 * ⚛️ [React](https://react.dev/)
 * 🧠 [TypeScript](https://www.typescriptlang.org/)
 * ⚡ [Vite](https://vitejs.dev/)
-* 🎨 [Tailwind CSS](https://tailwindcss.com/) para estilização
 
 ## Funcionalidades
 
@@ -32,22 +31,6 @@ Sistema front-end que permite aos usuários visualizar produtos, acessar detalhe
 * **Finalizar Pedido:**
   *Como usuário, quero confirmar meu pedido e esvaziar o carrinho após a finalização.*
 
-## Estrutura de Pastas
-
-```
-src/
-├── assets/          # Imagens e ícones
-├── components/      # Componentes reutilizáveis
-├── context/         # Estado global (Context API ou Zustand)
-├── data/            # Mock de produtos
-├── hooks/           # Custom hooks
-├── pages/           # Páginas (Home, Produto, Checkout)
-├── routes/          # Rotas do React Router
-├── types/           # Tipagens com TypeScript
-├── utils/           # Funções auxiliares
-├── App.tsx
-└── main.tsx
-```
 
 ## Como rodar o projeto
 
