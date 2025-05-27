@@ -53,7 +53,7 @@ src/
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/aguiarth/rocketlab-loja.git
+git clone https://github.com/aguiarth/rl-loja.git
 
 # 2. Acessar a pasta
 cd rocket-lab
